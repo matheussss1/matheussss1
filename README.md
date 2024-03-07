@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="350" src="https://www.springboard.com/blog/wp-content/uploads/2022/08/programming-skills.png"  />
+  <img height="250" src="https://raw.githubusercontent.com/gist/vininjr/d29bb07bdadb41e4b0923bc8fa748b1a/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif"  />
 </div>
 
 ###
@@ -14,29 +14,19 @@
 
 ###
 
+<h2 align="center">Hello there 👋</h2>
+
+###
+
+<p align="center">My name is Matheus Carvalho and i'm from Brazil 🇧🇷<br><br>- 🔭 I’m working as a Full Stack Software Engineering<br>- 📚 I'm currently learning about devops, design patterns and algorithms<br>- ⚡ In my free time I also love to code</p>
+
+###
+
+<h3 align="left"></h3>
+
+###
+
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=matheussss1.matheussss1&"  />
-</div>
-
-###
-
-<h1 align="center">Hello there 👋</h1>
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">My name is Matheus Carvalho and i'm from Brazil 🇧🇷<br><br>- 🔭 I’m working as a Full Stack Software Engineering<br>- 📚 I'm currently learning about devops, design patterns and algorithms<br>- ⚡ In my free time I also love to code</p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
-<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
@@ -75,16 +65,21 @@
 <h3 align="left"></h3>
 
 ###
+
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=matheussss1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=matheussss1&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=github_dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=matheussss1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=github_dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=matheussss1&locale=en&mode=daily&theme=github_dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
+###
+
+<h3 align="left"></h3>
 
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=matheussss1&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=matheussss1&radius=16&theme=github-dark&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
