@@ -78,8 +78,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=matheussss1&radius=16&theme=github-dark&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
+<img src="https://raw.githubusercontent.com/matheussss1/matheussss1/output/snake.svg" alt="Snake animation" />
 
 ###
