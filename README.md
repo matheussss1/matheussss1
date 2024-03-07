@@ -1,5 +1,9 @@
 <br clear="both">
 
+<div align="center">
+  <img height="350" src="https://www.springboard.com/blog/wp-content/uploads/2022/08/programming-skills.png"  />
+</div>
+
 ###
 
 <div align="center">
@@ -84,9 +88,3 @@
 </div>
 
 ###
-
-
-<div align="center">
-  <img height="350" src="https://www.springboard.com/blog/wp-content/uploads/2022/08/programming-skills.png"  />
-</div>
-
