@@ -18,7 +18,7 @@
 
 ###
 
-<p align="center">My name is Matheus Carvalho and i'm from Brazil 🇧🇷<br><br>- 🔭 I’m working as a Full Stack Software Engineer<br>- 📚 I'm currently learning about devops, design patterns and algorithms<br>- ⚡ In my free time I also love to code</p>
+<p align="center">My name is Matheus Carvalho and i'm from Brazil 🇧🇷<br><br>- 🔭 I’m working as a Tech Lead/Full Stack Software Engineer<br>- 📚 I'm currently learning about devops, design patterns and algorithms<br>- ⚡ In my free time I also love to code</p>
 
 ###
 
