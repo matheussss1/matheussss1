@@ -11,7 +11,7 @@
 
 <div align="center">
   
-**Tech Lead & Full Stack Software Engineer**
+**Full Stack Software Engineer**
 
 Based in Brazil 🇧🇷
 
